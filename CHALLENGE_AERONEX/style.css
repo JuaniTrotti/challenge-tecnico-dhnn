@@ -228,9 +228,7 @@ button {
   background-color: rgb(255, 255, 255);
   border: none;
 }
-
 /* hero section end */
-
 
 /* card section start */
 .card-section-container {
@@ -282,13 +280,9 @@ button {
   justify-content: start;
 }
 
-
-
 .section-card-02 {
   height: 80%;
   width: 70%;
-  /* padding-top: 8vh; */
-  /* border: 1px solid black; */
 }
 
 .background-container {
@@ -362,7 +356,6 @@ button {
   gap: 18px;
 }
 /* card section end */
-
 
 /* styling settings */
 

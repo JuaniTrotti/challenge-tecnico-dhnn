@@ -1,5 +1,4 @@
 import './style.css'
-
 //generate cards
 const imgurl = ["gente", "avion", "asientos"]
 
